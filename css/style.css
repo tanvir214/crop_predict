@@ -1,0 +1,163 @@
+.backcolor {
+    background-color: #212529;;
+}
+
+.banner {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.banner-info {
+    padding-top: 130px;
+    padding-bottom: 60px;
+}
+
+.banner-overlay {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.banner-info h3 {
+    font-size: 110px;
+    text-shadow: 3px 4px 6px rgb(45 45 45 / 15%);
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 12px;
+    text-transform: uppercase;
+}
+
+.banner-info h4 {
+    color: #eee;
+    letter-spacing: 5px;
+	line-height: 30px;
+	text-transform: capitalize;
+}
+
+.banner-info p {
+    max-width: 650px;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.banner-info i {
+    vertical-align: middle;
+}
+
+
+.result {
+
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.result-h1 {
+    font-size: 41px;
+    text-shadow: 3px 4px 6px rgb(45 45 45 / 15%);
+    font-weight: 800;
+    letter-spacing: 10px;
+    text-align: center;
+    color: #205d22;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+.result-border {
+    border-bottom: 5px solid #1f4e1f;
+}
+
+.result-border-right {
+    border-right: 5px solid #1f4e1f;
+}
+
+.result-h2 {
+    padding: 10px 0px;
+    font-family: Thasadith;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #205d22;
+}
+
+
+footer{
+    background: #205d22;
+    color: #ffff;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffff;
+    font-size: 35px;
+    letter-spacing: 8px;
+}
+
+footer p {
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 5px;
+}
+
+
+/**/
+
+.sc1 {
+    width: 1090px;
+    background-color: #767a7894;
+    color: #333333;
+    padding: 50px 20px;
+    margin: 55px 0px 55px 0px;
+}
+
+.sectionimg{
+    width: 100%;
+    background: url(../img/frontpage.jpg)no-repeat;
+    background-size: cover;
+    display: block;
+    float: left;
+}
+
+.sc1 h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+/***/
+
+
+.cropbg {
+    background-image: url(../img/resultbg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.croppd {
+    padding: 200px 0;
+}
+
+.croph h1 {
+    font-size: 80px;
+    text-shadow: 3px 4px 6px rgb(45 45 45 / 15%);
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 12px;
+    text-transform: uppercase;
+}
+
+.croph span {
+    font-style: italic;
+    color: #ff8d00;
+    letter-spacing: 2px;
+}
+
+
+label {
+    font-size: 26px;
+    font-weight: 800;
+    color: #205d22;
+    padding: 2px 0;
+}
